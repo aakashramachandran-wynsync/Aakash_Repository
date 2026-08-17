@@ -14,7 +14,7 @@ import { Reveal } from "./Reveal";
 import { SectionHeading } from "./SectionHeading";
 import { cn } from "@/lib/utils";
 import { useReveal } from "@/hooks/use-reveal";
-import heroKing from "@/assets/hero-king.jpg";
+import heroKing from "@/assets/Aakash-hero-image.png";
 import quoteBg from "@/assets/quote-bg.jpg";
 import projectCrm from "@/assets/project-crm.jpg";
 import projectHrms from "@/assets/project-hrms.jpg";

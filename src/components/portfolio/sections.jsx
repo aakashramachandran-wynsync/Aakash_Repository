@@ -20,7 +20,7 @@ import projectCrm from "@/assets/project-crm.jpg";
 import projectHrms from "@/assets/project-hrms.jpg";
 import projectTaxi from "@/assets/project-taxi.jpg";
 
-const EMAIL = "aakashvj17504@gmail.com";
+const EMAIL = "aakash.ramachandran@wynsync.tech";
 const PHONE = "+91 6369379097";
 
 /* ---------------------------------- Hero --------------------------------- */
